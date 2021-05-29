@@ -1,0 +1,7 @@
+Suppose there is a grid of size (n*m) where each cell is either black or white in color. We need to find number of paths from (1,1) to (n,m) such that we travel only through white cells (i.e we cannot visit black cell at all). We can either go right or down from a cell.
+
+Let  Total number of paths from cell a to cell e
+
+(ax-ex+ay-ey)!/(ax-ex)!*(ay-ey)!;
+
+visit - https://www.hackerearth.com/problem/algorithm/avoid-corona-paths-32f67235/editorial/
